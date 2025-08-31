@@ -17,4 +17,4 @@ jobs:
       layers: '["default"]'
       mapping: '["default"]'
       custom_config: '["#define MIRYOKU_CLIPBOARD_MAC"]'
-      kconfig: '["CONFIG_ZMK_POINTING=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_DISPLAY=y"]'
+      kconfig: '["CONFIG_ZMK_POINTING=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
